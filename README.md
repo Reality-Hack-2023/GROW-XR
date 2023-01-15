@@ -24,3 +24,6 @@ We learned so many new technical concepts involved with device/environment set-u
 
 # What's next for GROW XR: My Memory Palace
 Future Directions we outlined include: (1) Design user workflow Mechanism How that info gets populated in the first place based on provider’s outline/prescription 
+
+# References
+[FREE Aircraft Pack](https://assetstore.unity.com/packages/3d/vehicles/air/free-aircraft-pack-194025#publisher)
