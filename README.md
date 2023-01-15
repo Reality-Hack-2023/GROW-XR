@@ -27,3 +27,8 @@ Future Directions we outlined include: (1) Design user workflow Mechanism How th
 
 # References
 [FREE Aircraft Pack](https://assetstore.unity.com/packages/3d/vehicles/air/free-aircraft-pack-194025#publisher)
+[Free Low Poly Nature Forest](https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-nature-forest-205742)
+[Mountaintop](https://poly.pizza/m/8mWDJgGcXSH)
+[Character](https://www.mixamo.com/)
+[Font](https://www.1001freefonts.com/designer-nini-prower-fontlisting.php)
+[Sound](https://freesound.org/people/rolandasb/sounds/170515/)
