@@ -23,7 +23,7 @@ We are most proud of: (1) Managing and building a multi-scene project in Unity t
 We learned so many new technical concepts involved with device/environment set-up for the ThinkReality glasses. We also learned a lot about modifying leveraged 3D assets. We collectively learned a lot about narrowing scope 
 
 # What's next for GROW XR: My Memory Palace
-Future Directions we outlined include: (1) Design user workflow Mechanism How that info gets populated in the first place based on provider’s outline/prescription. 
+Future Directions we outlined include: (1) Give access to health provider to modify rehabilitation routine. (2) Add bigger variety of exercise, including mental exercise. (3) Include education resources for specific conditions. (4) Implement a way to create "safe space" for users. (5) Allow users to bring assets of their choice into the experience. 
 
 # References
 [FREE Aircraft Pack](https://assetstore.unity.com/packages/3d/vehicles/air/free-aircraft-pack-194025#publisher) 
